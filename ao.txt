@@ -1,4 +1,4 @@
 - derotator
 - SHWFS
-- PyWFS
+- PyWFS (replace with modulated PyWFS)
 - RTC
